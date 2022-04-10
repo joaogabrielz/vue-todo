@@ -5,7 +5,7 @@
 ## Projeto To-Do list com Vue👈 
     
 
-<img alt='print projeto' align="center" height="200" width="300" src="../master/img/print.png">
+<img alt='print projeto' align="center" height="340" width="440" src="../master/img/print.png">
 
 ## Click para ver: <a href='https://joaogabrielz.github.io/vue-todo/'>Deploy</a> 👈 
 
